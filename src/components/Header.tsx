@@ -106,7 +106,6 @@ export const Header = () => {
                                     prefixIcon="home"
                                     href={`/${params?.locale}`}
                                     selected={pathname === "/"}>
-                                    <Flex paddingX="2" hide="s">{home.label}</Flex>
                                 </ToggleButton>
                             )}
                             { routes['/about'] && (

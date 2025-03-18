@@ -1,0 +1,82 @@
+{
+    "person": {
+        "role": "Software Engineer"
+    },
+    "newsletter": {
+        "title": "{firstName}ning maqolalaridan habardor bo'lib turing",
+        "description": "Men IT olamida o‘rgangan texnologiyalarim va tajribalarim haqida bo‘lishib turaman, biron foyda bera olsam, xursand bo‘laman",
+        "button": "Ro‘yxatdan o‘tish"
+    },
+    "home": {
+        "label": "Asosiy",
+        "title": "{name}ning Portfoliosi",
+        "description": "{role} sifatida qilgan ishlarimni ko'rsatish uchun Portfolio vebsayt",
+        "headline": "DevOps va Backend muhandisi",
+        "subline": "Men Abdulaziz, KPI.com kompaniyasida DevOps muhandisi sifatida ish olib boraman, Ishdan tashqari vaqtda yangi texnologiyalarni o‘rganaman va o‘z fikrlarimni baham ko‘raman."
+    },
+    "about": {
+        "label": "Haqida",
+        "title": "Men haqimda",
+        "description": "Meet {name}, {role} from {location}",
+        "intro": {
+            "title": "Tanishtiruv",
+            "description": "Abdulaziz O'zbekistonlik DevOps va Backend muhandisiman, murakkab tizimlarni kengaytiriladigan va samarali yechimlarga aylantirishga ishtiyoqmandman. Ishlarim Java dasturlash, Spring Boot ilovalari va Docker asosidagi joylashtirishlarni o‘z ichiga oladi, kodlashni infratuzilma bilan birlashtiraman."
+        },
+        "work": {
+            "title": "Ish Tajribasi",
+            "experiences": {
+                "FLY": {
+                    "timeframe": "2022 - Present",
+                    "role": "Senior Design Engineer",
+                    "achievements": "Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.;Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster."
+                },
+                "Creativ3": {
+                    "timeframe": "2018 - 2022",
+                    "role": "Lead Designer",
+                    "achievements": "Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.;Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue."
+                }
+            }
+        },
+        "studies": {
+            "title": "Studies",
+            "institutions": {
+                "University of Jakarta": {
+                    "description": "Studied software engineering."
+                },
+                "Build the Future": {
+                    "description": "Studied online marketing and personal branding."
+                }
+            }
+        },
+        "technical": {
+            "title": "Technical skills",
+            "skills": {
+                "Figma": {
+                    "description": "Able to prototype in Figma with Once UI with unnatural speed."
+                },
+                "Nextjs": {
+                    "description": "Building next gen apps with Next.js + Once UI + Supabase."
+                }
+            }
+        }
+    },
+    "blog": {
+        "label": "Blog",
+        "title": "Writing about design and tech...",
+        "description": "Read what {name} has been up to recently"
+    },
+    "work": {
+        "label": "Work",
+        "title": "My projects",
+        "description": "Design and dev projects by {name}"
+    },
+    "gallery": {
+        "label": "Gallery",
+        "title": "My photo gallery",
+        "description": "A photo collection by {name}"
+    },
+    "projectCard": {
+        "label": "Read Case Study",
+        "link": "Project Link"
+    }
+}
